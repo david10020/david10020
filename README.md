@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @david10020
 - 👀 I’m interested in learning to develop code solutions
-- 🌱 I’m currently learning business and administration focusing on Tech AI data
 - 💞️ I’m looking to collaborate on projects or new business
 - 📫 How to reach me please send me a a DM here.
 - 😄 Pronouns: He
